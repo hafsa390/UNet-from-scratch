@@ -1,2 +1,3 @@
 There are many implementations available for UNet. But many of them do not follow the exact way it was proposed in the original paper(https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28). 
 This repository provides an implementation of the UNet architecture from scratch. It does not provide any training code, which will be gradually added. For now, a 572 x 572 matrix consisting of random values(1, 1, 572, 572) is considered as an input. The size of this input is printed in different steps to observe how the spatial dimension changes in different steps of contracting and expansive path. 
+![alt text](https://github.com/hafsa390/UNet-from-scratch/blob/main/UNet.JPG)
